@@ -1,0 +1,25 @@
+.chan {
+  display: flex;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  height: 800px;
+  background: url(eye.png) no-repeat 50% 50%;
+  background-size: contain;
+  
+}
+
+.eyes {
+  display: flex;
+  position: absolute;
+  top: 27px;
+  left: 162px;
+}
+
+.eye {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
