@@ -2,7 +2,7 @@
 
 <h1> Website assets</h1>
 
-<p>Image and so on.</p>
+<p>Images..</p>
 
 
 https://sujinhhh.github.io/deploy/
