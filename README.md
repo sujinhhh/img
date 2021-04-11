@@ -5,4 +5,4 @@
 <p>Images..</p>
 
 
-https://sujinhhh.github.io/deploy/
+https://sujinhhh.github.io/img/
